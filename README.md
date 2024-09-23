@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @edwin1729
-- 👀 I’m interested in Haskell, parsers, learning, caving
-- 🌱 I’m currently learning automata, category theory
-- 💞️ I’m looking to collaborate on arch linux, robot vision, cryotgraphy, anything really
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming languages, verification and code generation among other things
 
 <!---
 edwin1729/edwin1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
